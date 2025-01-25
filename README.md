@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - [@Abdul Azees](www.linkedin.com/in/abdul-azees-1b760a258)
 
-Project Link: [https://github.com/yourusername/todo-app]([https://github.com/yourusername/todo-app](https://azees03.github.io/ToDo-Web/))
+Project Link: [https://github.com/yourusername/todo-app]([https://azees03.github.io/ToDo-Web/]))
 
 ---
 
